@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/14.png",
+    "hoverImg": "../assets/14_.png",
+    "category": "anime",
+    "availbleImgs": [
+      "../assets/14.png",
+      "../assets/14_.png",
+      "../assets/14_.png",
+      "../assets/14_.png",
+      "../assets/14_.png"
+    ],
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/17_.png",
+    "hoverImg": "../assets/17.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/1.png",
+    "hoverImg": "../assets/1.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 42,
+    "mainImg": "../assets/4.png",
+    "hoverImg": "../assets/4.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/14_.png",
+    "hoverImg": "../assets/14.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/2.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/3.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Capuche Sasuke & Itachi",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/15.png",
+    "hoverImg": "../assets/15_.png",
+    "category": "anime",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Jogging En molleton non gratté",
+    "newPrice": 49,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/19.jpeg",
+    "hoverImg": "../assets/19_.jpeg",
+    "category": "femme",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Jogging En molleton non gratté",
+    "newPrice": 45,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/20.jpeg",
+    "hoverImg": "../assets/20_.jpeg",
+    "category": "femme",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Jogging En molleton non gratté",
+    "newPrice": 48,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/18.jpeg",
+    "hoverImg": "../assets/18_.jpeg",
+    "category": "femme",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Jogging En molleton non gratté",
+    "newPrice": 49,
+    "oldPrice": 58,
+    "tag": "En Promotion !",
+    "mainImg": "../assets/19.jpeg",
+    "hoverImg": "../assets/19_.jpeg",
+    "category": "femme",
+    "colors": ["noire", "beige"],
+    "sizes": ["xs", "s", "m", "l", "xl", "xxl"],
+    "stocks": [
+      {
+        "color": "beige",
+        "size": "xs",
+        "stock": 10
+      }
+    ]
+  }
+]
