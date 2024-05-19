@@ -10,13 +10,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 const port = 5000;
-const __dirname = path.resolve();
 
-if (process.env.NODE_ENV == "production") {
-  app.get("*", (req, res) =>
-    res.sendFile(path.resolve(__dirname, "client", "build", "index.html"))
-  );
-}
 app.use("/api/products", productRoutes);
 
 app.get("/", (req, res) => {
